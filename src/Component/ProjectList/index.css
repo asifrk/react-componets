@@ -1,0 +1,14 @@
+.contain {
+    margin: 10px;
+    display: flex;
+   
+    width:70vw;
+  }
+  
+  .project-list {
+    display: flex;
+   
+   
+    width:100vw;
+  }
+  
